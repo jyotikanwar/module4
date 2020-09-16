@@ -1,6 +1,6 @@
 (function(window){
 var hellospeaker={};
-greeting="hello ";
+greeting="Hello ";
 hellospeaker.speak=function(name){
 console.log(greeting+" "+name);
 }

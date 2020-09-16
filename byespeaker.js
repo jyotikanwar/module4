@@ -1,6 +1,6 @@
 (function(window){
 var byespeaker={};
-var greeting="goodbye ";
+var greeting="Good Bye ";
 byespeaker.speak=function(name){
 console.log(greeting +" "+name);
 }
